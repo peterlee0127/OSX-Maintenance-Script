@@ -15,7 +15,7 @@ sudo rm -rf /System/Library/Caches
 sudo rm /Users/Peter/Library/Safari/History.plist
 sudo rm /Users/Peter/Library/Safari/Downloads.plist
 clear
-echo "Clean Done"
+echo "Clean Done,You save:"
 echo $var1
 echo $var2
 echo $var3
