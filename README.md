@@ -12,13 +12,10 @@ $ ./clean.sh
 ======================
 clean.sh
 	Cleaning Temp and Cache
-======================
 delete_unused_InternetAccounts.sh
 	It will delete QQ,126,163,Tudou,Weibo,Youku(Some China Service in System Setting-Account)
-======================
 disable_Spotlight.sh
 	It will turn off Spotlight
-======================
 enable_Spotlight.sh
 	It will turn on Spotlight
 
