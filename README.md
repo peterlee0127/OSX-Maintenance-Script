@@ -4,7 +4,7 @@ OSX-Maintenance-Script
 for Mac
 ======================
 Installation
-$ git clone https://github.com/peterlee0127/OSX-Maintenance-Script.git
+$ git clone https://github.com/peterlee0127/OSX-Maintenance-Script.git\n
 $ cd  OSX-Maintenance-Script
 $ ./clean.sh
 
