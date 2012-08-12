@@ -1,5 +1,5 @@
-##############################################
-OSX Maintenance Script
+##############################################	
+	OSX Maintenance Script
 ##############################################
 How to use
 $ git clone https://github.com/peterlee0127/OSX-Maintenance-Script.git
