@@ -2,9 +2,9 @@
 	OSX Maintenance Script
 ##############################################
 How to use
-	 git clone https://github.com/peterlee0127/OSX-Maintenance-Script.git
-	 cd OSX-Maintenance-Script 
-	 ./clean.sh
+	git clone https://github.com/peterlee0127/OSX-Maintenance-Script.git
+	cd OSX-Maintenance-Script 
+	./clean.sh
 ##############################################
 clean.sh
 	It will clean Cache/History
