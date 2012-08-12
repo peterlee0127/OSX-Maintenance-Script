@@ -10,6 +10,6 @@ sudo rm -rf 163.iaplugin/
 sudo rm -rf Tudou.iaplugin/
 # Delete Weibo
 sudo rm -rf Weibo.iaplugin/
-# Youku
+# Delete Youku
 sudo rm -rf Youku.iaplugin/
 clear
