@@ -14,5 +14,4 @@ disable_Spotlight.sh
 	Disable Spotlight
 enable_Spotlight.sh
 	Enable Spotlight
-
 ##############################################
