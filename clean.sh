@@ -6,7 +6,10 @@ var4=`sudo du -sh /var/folders/*`
 var5=`sudo du -sh /System/Library/Caches`
 var6=`sudo du -sh /Users/Peter/Library/Safari/History.plist`
 var7=`sudo du -sh /Users/Peter/Library/Safari/Downloads.plist`
+var8=`sudo du -sh /Library/Logs`
 
+
+sudo rm -rf /Library/Logs
 sudo rm -rf /Users/$USER/Library/Logs
 sudo rm -rf /Library/Caches
 sudo rm -rf /Users/$USER/Library/Caches
@@ -23,5 +26,6 @@ echo $var4
 echo $var5
 echo $var6
 echo $var7
+echo $var8
 sleep 2
 clear
