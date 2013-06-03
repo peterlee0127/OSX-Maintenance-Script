@@ -2,7 +2,7 @@
 
 <h2>How to download.</h2>
 	git clone https://github.com/peterlee0127/OSX-Maintenance-Script.git
-	cd OSX-Maintenance-Script<br>
+	cd OSX-Maintenance-Script <br/>
 
 ========
 
