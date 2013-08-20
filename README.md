@@ -1,6 +1,6 @@
 <h1>OSX Maintenance Script</h1>
 
-<image src="image.png"></image>   
+<image src="https://github.com/peterlee0127/OSX-Maintenance-Script/blob/master/image.png?raw=true"></image>   
 Help you to clean some unused account.    
 It will delete QQ,126,163,Todou,Webio,Youku...
 
